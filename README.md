@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/53kwaf" target="blank"><img src="https://img.shields.io/twitter/follow/53kwaf?logo=twitter&style=for-the-badge" alt="53kwaf" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Kotlin, C#**
+- 🌱 I’m currently learning **Flutter, JavaScript, and Java**
 
 - 👨‍💻 All of my projects are available at [ahargunyllib.netlify.com](ahargunyllib.netlify.com)
 
