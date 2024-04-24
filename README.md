@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/53kwaf" target="blank"><img src="https://img.shields.io/twitter/follow/53kwaf?logo=twitter&style=for-the-badge" alt="53kwaf" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, JavaScript, and Java**
+- 🌱 I’m currently learning **TypeScript, PHP, and GO**
 
-- 👨‍💻 All of my projects are available at [ahargunyllib.netlify.com](ahargunyllib.netlify.com)
+- 👨‍💻 All of my projects are available at [ahargunyllib.tech](ahargunyllib.tech)
 
 - 🔭 I’m currently studying at **Computer Science, Brawijaya University**
 
